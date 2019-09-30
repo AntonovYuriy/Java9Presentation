@@ -1,0 +1,3 @@
+module jokeapp {
+	requires jokeserver;
+}

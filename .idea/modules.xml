@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java9Presentation.iml" filepath="$PROJECT_DIR$/Java9Presentation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-nonmodules/NonModularized-complete/NonModularized-complete.iml" filepath="$PROJECT_DIR$/1-nonmodules/NonModularized-complete/NonModularized-complete.iml" group="com/ra" />
+      <module fileurl="file://$PROJECT_DIR$/2-modules/Modularized-complete/com.ra.jokeapp/com.ra.jokeapp.iml" filepath="$PROJECT_DIR$/2-modules/Modularized-complete/com.ra.jokeapp/com.ra.jokeapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6-reflection-modules/reflectio-server-with-a-GUI/com.ra.jokeapp.ui/com.ra.jokeapp.ui.iml" filepath="$PROJECT_DIR$/6-reflection-modules/reflectio-server-with-a-GUI/com.ra.jokeapp.ui/com.ra.jokeapp.ui.iml" group="com" />
+      <module fileurl="file://$PROJECT_DIR$/3-multiple-servers/1-JokeServer-Services-start/com.ra.jokeapp/com.ra.jokeapp1.iml" filepath="$PROJECT_DIR$/3-multiple-servers/1-JokeServer-Services-start/com.ra.jokeapp/com.ra.jokeapp1.iml" group="com" />
+      <module fileurl="file://$PROJECT_DIR$/3-multiple-servers/2-JokeServer-Services-part1/com.ra.jokeapp/com.ra.jokeapp2.iml" filepath="$PROJECT_DIR$/3-multiple-servers/2-JokeServer-Services-part1/com.ra.jokeapp/com.ra.jokeapp2.iml" group="com" />
+      <module fileurl="file://$PROJECT_DIR$/4-service-loader/com.ra.jokeapp/src/com.ra.jokeapp3.iml" filepath="$PROJECT_DIR$/4-service-loader/com.ra.jokeapp/src/com.ra.jokeapp3.iml" group="com" />
+      <module fileurl="file://$PROJECT_DIR$/5-service-loader-modules/com.ra.jokeapp/com.ra.jokeapp4.iml" filepath="$PROJECT_DIR$/5-service-loader-modules/com.ra.jokeapp/com.ra.jokeapp4.iml" group="com" />
+      <module fileurl="file://$PROJECT_DIR$/2-modules/Modularized-complete/com.ra.jokeserver/com.ra.jokeserver.iml" filepath="$PROJECT_DIR$/2-modules/Modularized-complete/com.ra.jokeserver/com.ra.jokeserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3-multiple-servers/1-JokeServer-Services-start/com.ra.jokeserver.kid/com.ra.jokeserver.kid.iml" filepath="$PROJECT_DIR$/3-multiple-servers/1-JokeServer-Services-start/com.ra.jokeserver.kid/com.ra.jokeserver.kid.iml" group="com" />
+      <module fileurl="file://$PROJECT_DIR$/3-multiple-servers/2-JokeServer-Services-part1/com.ra.jokeserver.kid/com.ra.jokeserver.kid1.iml" filepath="$PROJECT_DIR$/3-multiple-servers/2-JokeServer-Services-part1/com.ra.jokeserver.kid/com.ra.jokeserver.kid1.iml" group="com" />
+      <module fileurl="file://$PROJECT_DIR$/4-service-loader/com.ra.jokeserver.kid/src/com.ra.jokeserver.kid2.iml" filepath="$PROJECT_DIR$/4-service-loader/com.ra.jokeserver.kid/src/com.ra.jokeserver.kid2.iml" group="com" />
+      <module fileurl="file://$PROJECT_DIR$/5-service-loader-modules/com.ra.jokeserver.kid/com.ra.jokeserver.kid3.iml" filepath="$PROJECT_DIR$/5-service-loader-modules/com.ra.jokeserver.kid/com.ra.jokeserver.kid3.iml" group="com" />
+      <module fileurl="file://$PROJECT_DIR$/6-reflection-modules/reflectio-server-with-a-GUI/com.ra.jokeserver.kid/com.ra.jokeserver.kid4.iml" filepath="$PROJECT_DIR$/6-reflection-modules/reflectio-server-with-a-GUI/com.ra.jokeserver.kid/com.ra.jokeserver.kid4.iml" group="com" />
+      <module fileurl="file://$PROJECT_DIR$/3-multiple-servers/1-JokeServer-Services-start/com.ra.jokeserver.programmer/com.ra.jokeserver.programmer.iml" filepath="$PROJECT_DIR$/3-multiple-servers/1-JokeServer-Services-start/com.ra.jokeserver.programmer/com.ra.jokeserver.programmer.iml" group="com" />
+      <module fileurl="file://$PROJECT_DIR$/3-multiple-servers/2-JokeServer-Services-part1/com.ra.jokeserver.programmer/com.ra.jokeserver.programmer1.iml" filepath="$PROJECT_DIR$/3-multiple-servers/2-JokeServer-Services-part1/com.ra.jokeserver.programmer/com.ra.jokeserver.programmer1.iml" group="com" />
+      <module fileurl="file://$PROJECT_DIR$/4-service-loader/com.ra.jokeserver.programmer/src/com.ra.jokeserver.programmer2.iml" filepath="$PROJECT_DIR$/4-service-loader/com.ra.jokeserver.programmer/src/com.ra.jokeserver.programmer2.iml" group="com" />
+      <module fileurl="file://$PROJECT_DIR$/5-service-loader-modules/com.ra.jokeserver.programmer/com.ra.jokeserver.programmer3.iml" filepath="$PROJECT_DIR$/5-service-loader-modules/com.ra.jokeserver.programmer/com.ra.jokeserver.programmer3.iml" group="com" />
+      <module fileurl="file://$PROJECT_DIR$/6-reflection-modules/reflectio-server-with-a-GUI/com.ra.jokeserver.programmer/com.ra.jokeserver.programmer4.iml" filepath="$PROJECT_DIR$/6-reflection-modules/reflectio-server-with-a-GUI/com.ra.jokeserver.programmer/com.ra.jokeserver.programmer4.iml" group="com" />
+      <module fileurl="file://$PROJECT_DIR$/3-multiple-servers/1-JokeServer-Services-start/com.ra.jokeserver/com.ra.jokeserver1.iml" filepath="$PROJECT_DIR$/3-multiple-servers/1-JokeServer-Services-start/com.ra.jokeserver/com.ra.jokeserver1.iml" group="com" />
+      <module fileurl="file://$PROJECT_DIR$/3-multiple-servers/2-JokeServer-Services-part1/com.ra.jokeserver/com.ra.jokeserver2.iml" filepath="$PROJECT_DIR$/3-multiple-servers/2-JokeServer-Services-part1/com.ra.jokeserver/com.ra.jokeserver2.iml" group="com" />
+      <module fileurl="file://$PROJECT_DIR$/4-service-loader/com.ra.jokeserver/src/com.ra.jokeserver3.iml" filepath="$PROJECT_DIR$/4-service-loader/com.ra.jokeserver/src/com.ra.jokeserver3.iml" group="com" />
+      <module fileurl="file://$PROJECT_DIR$/5-service-loader-modules/com.ra.jokeserver/com.ra.jokeserver4.iml" filepath="$PROJECT_DIR$/5-service-loader-modules/com.ra.jokeserver/com.ra.jokeserver4.iml" group="com" />
+      <module fileurl="file://$PROJECT_DIR$/6-reflection-modules/reflectio-server-with-a-GUI/com.ra.jokeserver/com.ra.jokeserver5.iml" filepath="$PROJECT_DIR$/6-reflection-modules/reflectio-server-with-a-GUI/com.ra.jokeserver/com.ra.jokeserver5.iml" group="com" />
+    </modules>
+  </component>
+</project>
